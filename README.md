@@ -2,4 +2,4 @@
 Encrypting words program with shift cipher
 Screenshot:
 
-![screenshot](shiftcipher.png)
+![screenshot](shiftcipher.PNG)
